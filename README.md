@@ -16,7 +16,7 @@ I didn't upload the build file as it was large.
 
 if you build the game, it will only work on Rift 
 as the new STEAMVR doesn't allow me to bind 
-a not blogged-in controller. 
+a not plugged-in controller. 
 
 
 
