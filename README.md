@@ -37,6 +37,7 @@ please do the following before building
 3. In the right trackpad click on the + sign and choose use as a "trackpad."
 
 
+(if there was any other bindings on the right trackpad, please remove them). 
 
 4. Fill click, touch, and position as below
 
@@ -50,6 +51,8 @@ Position: Menuswipe
 
 
 
+
+5. click replace default binding
 
 Then you're good to go :) 
 
